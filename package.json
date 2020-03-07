@@ -14,7 +14,7 @@
     "test:performance2": "lighthouse http://localhost:3000 --chrome-flags='--headless --no-sandbox' --no-enable-error-reporting --quiet --headless"
   },
   "dependencies": {
-    "acorn": "^6.4.0",
+    "acorn": "^7.1.1",
     "ansi-colors": "^3.2.3",
     "basic-auth": "^2.0.0",
     "basic-auth-connect": "^1.0.0",
